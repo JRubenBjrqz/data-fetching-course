@@ -5,4 +5,5 @@ export default defineNuxtConfig({
   dir: {
     pages: "app/pages",
   },
+  modules: ["@nuxt/ui"],
 });
